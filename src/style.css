@@ -1,0 +1,19 @@
+h1,
+p {
+  font-family: Lato;
+}
+.block {
+  width: 30px;
+  height: 30px;
+  background-color: black;
+  margin: 10px;
+  z-index: 10;
+}
+.container {
+  display: flex;
+  /* width:500px;
+  height:500px; */
+  background-color: blue;
+  align-items: center;
+  justify-content: center;
+}
